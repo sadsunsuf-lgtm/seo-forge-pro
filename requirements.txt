@@ -2,3 +2,5 @@ streamlit
 fastapi
 uvicorn
 google-generativeai
+google-genai
+groq
